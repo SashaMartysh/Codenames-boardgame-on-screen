@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 7626340e7bee1aa41973aa5a739b56f2
+timeCreated: 1504013427
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Myriad Pro
+  fontNames:
+  - Myriad Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 42f534a0c2ae8ac419c1a67f195161d2, type: 3}
+  - {fileID: 12800000, guid: 015b3462a957dcb4d813185a4fe890aa, type: 3}
+  - {fileID: 12800000, guid: 23ad7f94cc42f1f4f8f3e406c4a17012, type: 3}
+  - {fileID: 12800000, guid: 6fb2ad350d9fda34dae4c39b49bc6144, type: 3}
+  - {fileID: 12800000, guid: 0c830df54868ece4b821fe1a26dc6ae7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
